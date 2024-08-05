@@ -1,5 +1,4 @@
 # GMASK - Generalised Multilevel Approximate Similarity Search with *k*-medoids
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11197865.svg)](https://doi.org/10.5281/zenodo.11197865)
 
 ## Description
 
